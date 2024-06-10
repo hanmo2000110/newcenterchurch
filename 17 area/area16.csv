@@ -1,0 +1,502 @@
+ROG3,Country,ROG4,Adm1Name,PeopleID3,PeopName,JPScale,ROL3,Language,RLG3,PrimaryReligion,PhotoAddress,Frontier,Population,Hindu,Muslim,Buddhist,Christian,Sikh,Other
+IN,India,IN30,"Arunachal Pradesh",21369,Abor,2,adi,Adi,9,Unknown,,N,1890,70,,,290,,1500
+IN,India,IN30,"Arunachal Pradesh",18386,Adi,2,adi,Adi,9,Unknown,p18386.jpg,N,79980,7890,160,270,17200,,54450
+IN,India,IN30,"Arunachal Pradesh",16165,"Adi Gallong",2,adl,"Adi, Galo",9,Unknown,,N,20790,1180,50,110,8330,,11070
+IN,India,IN30,"Arunachal Pradesh",16167,"Adi Minyong",2,adi,Adi,9,Unknown,p16167.jpg,N,28570,1290,10,50,5070,,22110
+IN,India,IN30,"Arunachal Pradesh",16168,"Adi Padam",2,adi,Adi,9,Unknown,p16168.jpg,N,16020,1960,50,10,4820,10,9140
+IN,India,IN30,"Arunachal Pradesh",16169,"Adi Pasi",2,adi,Adi,9,Unknown,,N,3590,300,10,,730,,2540
+IN,India,IN30,"Arunachal Pradesh",17939,"Adi Ramo",2,adi,Adi,9,Unknown,,N,1620,,,20,740,,840
+IN,India,IN30,"Arunachal Pradesh",16189,Ahom,1,asm,Assamese,5,Hinduism,p16189.jpg,N,100820,93110,,4910,2640,,220
+IN,India,IN30,"Arunachal Pradesh",16195,Aka,2,hru,Hruso,5,Hinduism,p16195.jpg,N,9720,3480,10,140,3320,,2720
+IN,India,IN30,"Arunachal Pradesh",16219,Angami,3,njm,"Naga, Angami",1,Christianity,p16219.jpg,N,140,,,,170,,
+IN,India,IN30,"Arunachal Pradesh",16223,Ao,3,njo,"Naga, Ao",1,Christianity,p16223.jpg,N,180,,,,180,,
+IN,India,IN30,"Arunachal Pradesh",17559,Arleng,2,mjw,Karbi,5,Hinduism,p17559.jpg,N,1280,1240,,,20,,20
+IN,India,IN30,"Arunachal Pradesh",16241,"Arora (Sikh traditions)",1,pan,"Punjabi, Eastern",8,"Other / Small",p16241.jpg,Y,60,,,,,60,
+IN,India,IN30,"Arunachal Pradesh",10461,"Assamese (Muslim traditions)",1,asm,Assamese,6,Islam,p10461.jpg,Y,12080,,12080,,,,
+IN,India,IN30,"Arunachal Pradesh",16281,"Bagdi (Hindu traditions)",1,ben,Bengali,5,Hinduism,p16281.jpg,Y,3310,3310,,,,,
+IN,India,IN30,"Arunachal Pradesh",16295,"Baidya (Hindu traditions)",1,ben,Bengali,5,Hinduism,p16295.jpg,N,30,30,,,,,
+IN,India,IN30,"Arunachal Pradesh",19688,"Bania Agarwal",1,hin,Hindi,5,Hinduism,p19688.jpg,Y,1140,1040,,,,,90
+IN,India,IN30,"Arunachal Pradesh",20019,"Bania Brittal",1,asm,Assamese,5,Hinduism,,Y,210,210,,,,,
+IN,India,IN30,"Arunachal Pradesh",16318,"Bania unspecified",1,hin,Hindi,5,Hinduism,p16318.jpg,Y,5680,5330,,,,,400
+IN,India,IN30,"Arunachal Pradesh",16323,"Bansphor (Hindu traditions)",1,hin,Hindi,5,Hinduism,p16323.jpg,Y,170,170,,,,,
+IN,India,IN30,"Arunachal Pradesh",10736,Bauri,1,ben,Bengali,5,Hinduism,p10736.jpg,N,840,840,,,,,
+IN,India,IN30,"Arunachal Pradesh",16450,"Bhotia Sikkim",1,sip,Sikkimese,2,Buddhism,p16450.jpg,N,1000,,,1000,,,
+IN,India,IN30,"Arunachal Pradesh",16426,Bhuinmali,1,ben,Bengali,5,Hinduism,p16426.jpg,N,110,110,,,,,
+IN,India,IN30,"Arunachal Pradesh",16447,Bhumij,1,ben,Bengali,5,Hinduism,p16447.jpg,N,2280,2210,,,50,,20
+IN,India,IN30,"Arunachal Pradesh",16492,"Bodo (Hindu traditions)",2,brx,"Boro (India)",5,Hinduism,p16492.jpg,N,34920,32330,,390,2200,,
+IN,India,IN30,"Arunachal Pradesh",16499,Bokar,3,adi,Adi,1,Christianity,p16499.jpg,N,5510,80,40,30,3770,,1580
+IN,India,IN30,"Arunachal Pradesh",16510,Bori,3,adi,Adi,1,Christianity,,N,3980,50,30,10,3150,,730
+IN,India,IN30,"Arunachal Pradesh",20780,"Boria Assam",1,asm,Assamese,5,Hinduism,p20780.jpg,Y,660,600,,,50,,
+IN,India,IN30,"Arunachal Pradesh",19931,"Brahmin Bengali",1,ben,Bengali,5,Hinduism,,Y,1620,1620,,,,,
+IN,India,IN30,"Arunachal Pradesh",19943,"Brahmin Gaur",1,hin,Hindi,5,Hinduism,p19943.jpg,Y,200,200,,,,,
+IN,India,IN30,"Arunachal Pradesh",19972,"Brahmin Radhi",1,ben,Bengali,5,Hinduism,p19972.jpg,Y,360,360,,,,,
+IN,India,IN30,"Arunachal Pradesh",16521,"Brahmin unspecified",1,hin,Hindi,5,Hinduism,p16521.jpg,Y,13140,13110,,,,,30
+IN,India,IN30,"Arunachal Pradesh",17966,Bru,2,trp,"Kok Borok",5,Hinduism,p17966.jpg,N,1110,630,,50,400,,
+IN,India,IN30,"Arunachal Pradesh",16541,"Buna (Hindu traditions)",1,ben,Bengali,5,Hinduism,,Y,260,260,,,,,
+IN,India,IN30,"Arunachal Pradesh",11029,Burmese,1,mya,Burmese,2,Buddhism,p11029.jpg,N,8710,,,8110,600,,
+IN,India,IN30,"Arunachal Pradesh",16564,Chain,1,ben,Bengali,5,Hinduism,p16564.jpg,Y,640,640,,,,,
+IN,India,IN30,"Arunachal Pradesh",16562,Chakhesang,3,nri,"Naga, Chokri",1,Christianity,p16562.jpg,N,140,,,,140,,
+IN,India,IN30,"Arunachal Pradesh",11293,Chakma,1,ccp,Chakma,2,Buddhism,p11293.jpg,N,9110,510,,7730,810,,
+IN,India,IN30,"Arunachal Pradesh",16561,"Chamar (Hindu traditions)",1,hin,Hindi,5,Hinduism,p16561.jpg,N,510,510,,,,,
+IN,India,IN30,"Arunachal Pradesh",18354,Charumba,2,zkr,Zakhring,2,Buddhism,p18354.jpg,N,1140,30,,950,90,,50
+IN,India,IN30,"Arunachal Pradesh",16589,Chhetri,1,npi,Nepali,5,Hinduism,p16589.jpg,N,2400,2280,,120,,,
+IN,India,IN30,"Arunachal Pradesh",16598,Chiru,3,cdf,Chiru,1,Christianity,p16598.jpg,N,20,20,,,,,
+IN,India,IN30,"Arunachal Pradesh",16961,Christian,3,hin,Hindi,1,Christianity,p16961.jpg,N,9310,,,,9310,,
+IN,India,IN30,"Arunachal Pradesh",16664,Darjee,1,npi,Nepali,5,Hinduism,p16664.jpg,N,110,100,,,10,,
+IN,India,IN30,"Arunachal Pradesh",16673,"Darzi (Hindu traditions)",1,hin,Hindi,5,Hinduism,p16673.jpg,Y,120,120,,,,,
+IN,India,IN30,"Arunachal Pradesh",16621,Deori,1,der,Deori,5,Hinduism,p16621.jpg,N,6370,6270,20,,20,,20
+IN,India,IN30,"Arunachal Pradesh",16709,"Dhobi (Hindu traditions)",1,hin,Hindi,5,Hinduism,p16709.jpg,Y,520,520,,,,,
+IN,India,IN30,"Arunachal Pradesh",16711,"Dholi (Hindu traditions)",1,hin,Hindi,5,Hinduism,p16711.jpg,Y,110,110,,,,,
+IN,India,IN30,"Arunachal Pradesh",16720,Digaru,2,mhu,Digaro-Mishmi,5,Hinduism,,N,1520,1030,,,120,,340
+IN,India,IN30,"Arunachal Pradesh",16745,Drukpa,1,dzo,Dzongkha,2,Buddhism,p16745.jpg,Y,1140,,,1140,,,
+IN,India,IN30,"Arunachal Pradesh",16780,Galong,2,adl,"Adi, Galo",9,Unknown,,N,95490,3860,280,200,26210,10,64860
+IN,India,IN30,"Arunachal Pradesh",16819,Gangte,3,gnb,Gangte,1,Christianity,p16819.jpg,N,10,10,,,,,
+IN,India,IN30,"Arunachal Pradesh",11826,"Garo (A-chik Mande)",3,grt,Garo,1,Christianity,p11826.jpg,N,780,280,,10,490,,
+IN,India,IN30,"Arunachal Pradesh",16800,Gauda,1,ory,Odia,5,Hinduism,p16800.jpg,Y,200,200,,,,,
+IN,India,IN30,"Arunachal Pradesh",16855,"Gond unspecified",1,hin,Hindi,5,Hinduism,p16855.jpg,N,7330,6770,,40,490,,40
+IN,India,IN30,"Arunachal Pradesh",15366,"Gurung Ghaleg",2,npi,Nepali,5,Hinduism,p15366.jpg,N,1350,210,,1110,30,,
+IN,India,IN30,"Arunachal Pradesh",12027,Hadi,1,ben,Bengali,5,Hinduism,p12027.jpg,N,310,310,,,,,
+IN,India,IN30,"Arunachal Pradesh",16905,"Halwai (Hindu traditions)",1,hin,Hindi,5,Hinduism,p16905.jpg,Y,140,140,,,,,
+IN,India,IN30,"Arunachal Pradesh",12051,"Han Chinese, Mandarin",2,cmn,"Chinese, Mandarin",2,Buddhism,p12051.jpg,N,20,,,20,,,
+IN,India,IN30,"Arunachal Pradesh",16927,Hira,1,asm,Assamese,5,Hinduism,p16927.jpg,Y,80,80,,,,,
+IN,India,IN30,"Arunachal Pradesh",16937,Hmar,3,hmr,Hmar,1,Christianity,p16937.jpg,N,230,,,,230,,
+IN,India,IN30,"Arunachal Pradesh",16944,Ho,1,hoc,Ho,9,Unknown,p16944.jpg,N,260,260,,,,,
+IN,India,IN30,"Arunachal Pradesh",16946,Hojai,2,asm,Assamese,5,Hinduism,,N,130,70,,50,10,,
+IN,India,IN30,"Arunachal Pradesh",13050,Idu,2,clk,Idu-Mishmi,5,Hinduism,p13050.jpg,N,37980,19560,170,500,2000,,15680
+IN,India,IN30,"Arunachal Pradesh",16965,Ilavan,1,mal,Malayalam,5,Hinduism,p16965.jpg,Y,100,100,,,,,
+IN,India,IN30,"Arunachal Pradesh",17451,Illemei,3,nbi,"Naga, Mao",1,Christianity,p17451.jpg,N,10,,,,10,,
+IN,India,IN30,"Arunachal Pradesh",16977,Jalkeot,1,asm,Assamese,5,Hinduism,p16977.jpg,N,100,100,,,,,
+IN,India,IN30,"Arunachal Pradesh",12329,"Jat (Hindu traditions)",1,hin,Hindi,5,Hinduism,p12329.jpg,Y,680,680,,,,,
+IN,India,IN30,"Arunachal Pradesh",18777,"Jat (Sikh traditions)",1,pan,"Punjabi, Eastern",8,"Other / Small",p18777.jpg,Y,2430,,,,,2430,
+IN,India,IN30,"Arunachal Pradesh",17007,"Jhalo Malo",1,ben,Bengali,5,Hinduism,p17007.jpg,N,230,230,,,,,
+IN,India,IN30,"Arunachal Pradesh",17019,"Jogi (Hindu traditions)",1,ben,Bengali,5,Hinduism,p17019.jpg,Y,2380,2380,,,,,
+IN,India,IN30,"Arunachal Pradesh",17130,"Kachari Dimasa",2,dis,Dimasa,5,Hinduism,p17130.jpg,N,1540,1140,,230,160,,
+IN,India,IN30,"Arunachal Pradesh",17296,"Kachari Sonwal",1,asm,Assamese,5,Hinduism,p17296.jpg,N,21480,11520,,3710,6230,10,10
+IN,India,IN30,"Arunachal Pradesh",12401,Kachin,1,kac,Jingpho,2,Buddhism,p12401.jpg,N,37660,290,,37150,200,,20
+IN,India,IN30,"Arunachal Pradesh",17872,Kahha,3,nph,"Naga, Phom",1,Christianity,p17872.jpg,N,100,,,,100,,
+IN,India,IN30,"Arunachal Pradesh",21146,"Kaibartta Jalia",1,ben,Bengali,5,Hinduism,p21146.jpg,Y,300,300,,,,,
+IN,India,IN30,"Arunachal Pradesh",17016,"Kaibartta unspecified",1,ben,Bengali,5,Hinduism,p17016.jpg,Y,4400,4340,,,60,,
+IN,India,IN30,"Arunachal Pradesh",17069,Kami,1,npi,Nepali,5,Hinduism,p17069.jpg,N,1120,990,,110,20,,
+IN,India,IN30,"Arunachal Pradesh",17085,Kaora,1,ben,Bengali,5,Hinduism,p17085.jpg,N,300,300,,,,,
+IN,India,IN30,"Arunachal Pradesh",17087,Kapali,1,ben,Bengali,5,Hinduism,p17087.jpg,Y,30,30,,,,,
+IN,India,IN30,"Arunachal Pradesh",12558,"Kashmiri (Muslim traditions)",1,kas,Kashmiri,6,Islam,p12558.jpg,Y,40,,40,,,,
+IN,India,IN30,"Arunachal Pradesh",17124,"Kayastha (Hindu traditions)",1,hin,Hindi,5,Hinduism,p17124.jpg,Y,6120,6100,,,20,,
+IN,India,IN30,"Arunachal Pradesh",17157,Khairwar,1,ben,Bengali,5,Hinduism,p17157.jpg,N,560,550,,,20,,
+IN,India,IN30,"Arunachal Pradesh",17173,Khamiyang,1,ksu,Khamyang,2,Buddhism,p17173.jpg,N,1150,20,,1090,20,,
+IN,India,IN30,"Arunachal Pradesh",18522,"Khampa Tibetan",1,kbg,Khamba,2,Buddhism,p18522.jpg,N,1060,,,1050,,,10
+IN,India,IN30,"Arunachal Pradesh",12650,Khampti,1,adi,Adi,2,Buddhism,p12650.jpg,N,18680,330,50,18000,140,30,120
+IN,India,IN30,"Arunachal Pradesh",17150,Khandait,1,ory,Odia,5,Hinduism,p17150.jpg,Y,720,720,,,,,
+IN,India,IN30,"Arunachal Pradesh",17153,Kharia,2,khr,Kharia,5,Hinduism,p17153.jpg,N,3860,3820,,,40,,
+IN,India,IN30,"Arunachal Pradesh",12654,Khasi,3,kha,Khasi,1,Christianity,p12654.jpg,N,580,70,,,510,,
+IN,India,IN30,"Arunachal Pradesh",17180,Khowa,2,bgg,Bugun,2,Buddhism,p17180.jpg,N,1690,80,,850,350,,410
+IN,India,IN30,"Arunachal Pradesh",17195,Kisan,1,hin,Hindi,5,Hinduism,p17195.jpg,N,1250,1250,,,,,
+IN,India,IN30,"Arunachal Pradesh",17260,Konyak,3,nbe,"Naga, Konyak",1,Christianity,p17260.jpg,N,140,,,,140,,
+IN,India,IN30,"Arunachal Pradesh",17269,Korku,1,kfq,Korku,5,Hinduism,p17269.jpg,N,820,820,,,,,
+IN,India,IN30,"Arunachal Pradesh",17273,Korwa,1,tel,Telugu,5,Hinduism,p17273.jpg,N,1750,1750,,,,,
+IN,India,IN30,"Arunachal Pradesh",17282,"Koya unspecified",1,tel,Telugu,5,Hinduism,p17282.jpg,N,190,190,,,10,,
+IN,India,IN30,"Arunachal Pradesh",19065,"Kui Khond",2,ory,Odia,5,Hinduism,p19065.jpg,N,1990,1840,40,,80,,40
+IN,India,IN30,"Arunachal Pradesh",11270,"Kuki Chin",3,tcz,"Chin, Thado",1,Christianity,p11270.jpg,N,1130,520,,290,310,,
+IN,India,IN30,"Arunachal Pradesh",17314,Kuli,1,ory,Odia,5,Hinduism,p17314.jpg,N,10,10,,,,,
+IN,India,IN30,"Arunachal Pradesh",17316,"Kumhar (Kusavar) (Hindu traditions)",1,hin,Hindi,5,Hinduism,p17316.jpg,Y,640,640,,,,,
+IN,India,IN30,"Arunachal Pradesh",17334,"Kurmi (Hindu traditions)",1,hin,Hindi,5,Hinduism,p17334.jpg,Y,4720,4720,,,,,
+IN,India,IN30,"Arunachal Pradesh",21373,Laju,3,njb,"Naga, Nocte",1,Christianity,,N,2030,80,,,1930,,
+IN,India,IN30,"Arunachal Pradesh",13076,"Lisu Yobin",3,lis,Lisu,1,Christianity,p13076.jpg,N,3550,,,10,3510,,10
+IN,India,IN30,"Arunachal Pradesh",17385,Lotha,3,njh,"Naga, Lotha",1,Christianity,p17385.jpg,N,840,,,,840,,
+IN,India,IN30,"Arunachal Pradesh",11698,Magar,2,npi,Nepali,5,Hinduism,p11698.jpg,N,2880,2240,,480,130,,
+IN,India,IN30,"Arunachal Pradesh",17401,Mahara,1,ory,Odia,5,Hinduism,,Y,120,120,,,,,
+IN,India,IN30,"Arunachal Pradesh",17411,Mahishya,1,ben,Bengali,5,Hinduism,p17411.jpg,N,11150,11110,,,50,,
+IN,India,IN30,"Arunachal Pradesh",13218,Mahli,1,mar,Marathi,5,Hinduism,p13218.jpg,N,130,130,,,,,
+IN,India,IN30,"Arunachal Pradesh",17554,"Mahratta unspecified",1,mar,Marathi,5,Hinduism,p17554.jpg,Y,40,40,,,,,
+IN,India,IN30,"Arunachal Pradesh",17417,Majhwar,1,hin,Hindi,5,Hinduism,p17417.jpg,N,280,280,,,,,
+IN,India,IN30,"Arunachal Pradesh",17424,"Mal (Hindu traditions)",1,hin,Hindi,5,Hinduism,p17424.jpg,Y,380,380,,,,,
+IN,India,IN30,"Arunachal Pradesh",17498,"Malabar Catholic",3,mal,Malayalam,1,Christianity,p17498.jpg,N,120,,,,120,,
+IN,India,IN30,"Arunachal Pradesh",17434,Malto,2,mkb,"Mal Paharia",5,Hinduism,p17434.jpg,N,50,40,,,10,,
+IN,India,IN30,"Arunachal Pradesh",17466,Matia,1,ben,Bengali,5,Hinduism,p17466.jpg,Y,20,20,,,,,
+IN,India,IN30,"Arunachal Pradesh",17526,Mech,2,brx,"Boro (India)",5,Hinduism,p17526.jpg,N,1580,1180,,120,250,,
+IN,India,IN30,"Arunachal Pradesh",13513,"Meitei unspecified",1,mni,Meitei,5,Hinduism,p13513.jpg,N,1520,1520,,,,,
+IN,India,IN30,"Arunachal Pradesh",17557,Miji,2,mxj,Miju-Mishmi,1,Christianity,p17557.jpg,N,9640,1270,100,1030,4040,,3180
+IN,India,IN30,"Arunachal Pradesh",18437,"Miju Mishmi",1,mxj,Miju-Mishmi,5,Hinduism,p18437.jpg,N,11340,8060,90,20,160,,3010
+IN,India,IN30,"Arunachal Pradesh",18789,Millang,2,adi,Adi,9,Unknown,,N,4840,200,40,10,1710,,2850
+IN,India,IN30,"Arunachal Pradesh",18790,Miniyong,2,adi,Adi,9,Unknown,,N,9370,200,20,,1840,,7280
+IN,India,IN30,"Arunachal Pradesh",17563,Miri,1,mrg,Mising,5,Hinduism,p17563.jpg,N,9090,5800,50,80,1110,,2020
+IN,India,IN30,"Arunachal Pradesh",17565,Mishmi,2,mhu,Digaro-Mishmi,5,Hinduism,p17565.jpg,N,150,10,,130,10,,
+IN,India,IN30,"Arunachal Pradesh",13161,Mizo,3,lus,Mizo,1,Christianity,p13161.jpg,N,820,20,,20,770,,
+IN,India,IN30,"Arunachal Pradesh",20672,"Mizo Lushai",3,lus,Mizo,1,Christianity,,N,300,10,,,290,,
+IN,India,IN30,"Arunachal Pradesh",17639,"Mochi (Hindu traditions)",1,ben,Bengali,5,Hinduism,p17639.jpg,N,400,400,,,,,
+IN,India,IN30,"Arunachal Pradesh",18602,Momba,1,onp,Sartang,2,Buddhism,p18602.jpg,N,5350,30,40,5150,40,,80
+IN,India,IN30,"Arunachal Pradesh",17648,Monpa,1,twm,"Monpa, Tawang",2,Buddhism,p17648.jpg,N,47870,350,80,46640,420,10,240
+IN,India,IN30,"Arunachal Pradesh",16724,"Monpa Dirang",1,tsj,Tshangla,2,Buddhism,p16724.jpg,N,8490,60,20,8310,70,10,30
+IN,India,IN30,"Arunachal Pradesh",17207,"Monpa Kalaktang",2,kkf,"Monpa, Kalaktang",2,Buddhism,p17207.jpg,N,1640,660,,880,100,,
+IN,India,IN30,"Arunachal Pradesh",17374,"Monpa Lish",1,lsh,Lish,2,Buddhism,p17374.jpg,N,2650,20,,2600,20,,
+IN,India,IN30,"Arunachal Pradesh",19197,"Monpa Tawang",1,twm,"Monpa, Tawang",2,Buddhism,p19197.jpg,N,8450,50,10,8340,30,,20
+IN,India,IN30,"Arunachal Pradesh",13867,Munda,2,unr,Mundari,5,Hinduism,p13867.jpg,N,20580,18210,,190,2130,,50
+IN,India,IN30,"Arunachal Pradesh",17711,"Musahar (Hindu traditions)",1,hin,Hindi,5,Hinduism,p17711.jpg,N,90,90,,,,,
+IN,India,IN30,"Arunachal Pradesh",17738,Naga,3,nag,Nagamese,1,Christianity,p17738.jpg,N,6800,400,50,40,2830,,3470
+IN,India,IN30,"Arunachal Pradesh",18214,"Naga Tangkhul",3,nmf,"Naga, Tangkhul (India)",1,Christianity,p18214.jpg,N,70,,,,60,,10
+IN,India,IN30,"Arunachal Pradesh",17747,Nair,1,mal,Malayalam,5,Hinduism,p17747.jpg,N,50,50,,,,,
+IN,India,IN30,"Arunachal Pradesh",17756,"Namassej (Hindu traditions)",1,ben,Bengali,5,Hinduism,p17756.jpg,N,2810,2810,,,,,
+IN,India,IN30,"Arunachal Pradesh",21212,"Namassej Chandel",1,ben,Bengali,5,Hinduism,p21212.jpg,N,200,200,,,,,
+IN,India,IN30,"Arunachal Pradesh",13322,Newah,1,npi,Nepali,5,Hinduism,p13322.jpg,N,710,590,,120,10,,
+IN,India,IN30,"Arunachal Pradesh",17782,Nishang,3,njz,Nyishi,1,Christianity,,N,3440,500,20,10,2220,,680
+IN,India,IN30,"Arunachal Pradesh",17783,Nissi,3,njz,Nyishi,1,Christianity,p17783.jpg,N,37020,2410,210,130,23180,40,11100
+IN,India,IN30,"Arunachal Pradesh",17791,Nocte,3,njb,"Naga, Nocte",1,Christianity,,N,44830,10530,130,150,28650,,5380
+IN,India,IN30,"Arunachal Pradesh",21379,Nyishi,3,njz,Nyishi,1,Christianity,p21379.jpg,N,297070,17800,1470,520,186350,70,91020
+IN,India,IN30,"Arunachal Pradesh",14210,Oraon,2,kru,Kurux,5,Hinduism,p14210.jpg,N,12570,11490,,130,880,,40
+IN,India,IN30,"Arunachal Pradesh",17805,Padam,2,adi,Adi,9,Unknown,,N,2800,290,50,110,950,,1390
+IN,India,IN30,"Arunachal Pradesh",17815,Pailibo,3,njz,Nyishi,1,Christianity,,N,1450,10,,,1030,,410
+IN,India,IN30,"Arunachal Pradesh",17817,"Paite (Christian traditions)",3,pck,"Chin, Paite",1,Christianity,p17817.jpg,N,80,10,,,50,,10
+IN,India,IN30,"Arunachal Pradesh",19764,"Paite Simte",3,smt,Simte,1,Christianity,,N,40,,,,40,,
+IN,India,IN30,"Arunachal Pradesh",17821,Paliya,1,ben,Bengali,5,Hinduism,p17821.jpg,Y,120,120,,,,,
+IN,India,IN30,"Arunachal Pradesh",17840,Pan,1,ory,Odia,5,Hinduism,p17840.jpg,N,690,690,,,,,
+IN,India,IN30,"Arunachal Pradesh",17901,"Parja unspecified",1,ory,Odia,5,Hinduism,p17901.jpg,N,220,220,,,,,
+IN,India,IN30,"Arunachal Pradesh",21537,"Pashtun, Pathan",1,urd,Urdu,6,Islam,p21537.jpg,Y,70,,70,,,,
+IN,India,IN30,"Arunachal Pradesh",18792,Pasi,2,adi,Adi,9,Unknown,,N,1230,20,,,130,,1090
+IN,India,IN30,"Arunachal Pradesh",17856,"Patni (Hindu traditions)",1,ben,Bengali,5,Hinduism,p17856.jpg,Y,150,150,,,,,
+IN,India,IN30,"Arunachal Pradesh",19042,Pochury,3,npo,"Naga, Pochuri",1,Christianity,p19042.jpg,N,40,,,,40,,
+IN,India,IN30,"Arunachal Pradesh",17896,Pod,1,ben,Bengali,5,Hinduism,p17896.jpg,N,6510,6500,,,20,,
+IN,India,IN30,"Arunachal Pradesh",17729,Poi,3,lus,Mizo,1,Christianity,,N,130,,,,130,,
+IN,India,IN30,"Arunachal Pradesh",18186,Puroik,2,suv,Puroik,9,Unknown,p18186.jpg,N,5210,300,10,,2370,,2540
+IN,India,IN30,"Arunachal Pradesh",17922,Rabha,2,asm,Assamese,5,Hinduism,p17922.jpg,N,4430,3790,,140,440,,50
+IN,India,IN30,"Arunachal Pradesh",17925,Rai,2,npi,Nepali,5,Hinduism,p17925.jpg,N,1320,600,,,140,,550
+IN,India,IN30,"Arunachal Pradesh",14513,"Rajbansi (Hindu traditions)",1,ben,Bengali,5,Hinduism,p14513.jpg,N,9960,9250,,60,340,,300
+IN,India,IN30,"Arunachal Pradesh",17928,"Rajput (Hindu traditions)",1,hin,Hindi,5,Hinduism,p17928.jpg,Y,1500,1500,,,,,
+IN,India,IN30,"Arunachal Pradesh",17667,"Rajput (Muslim traditions)",1,urd,Urdu,6,Islam,p17667.jpg,Y,210,,210,,,,
+IN,India,IN30,"Arunachal Pradesh",18159,"Rajput (Sikh traditions)",1,pan,"Punjabi, Eastern",8,"Other / Small",p18159.jpg,Y,530,,,,,530,
+IN,India,IN30,"Arunachal Pradesh",17933,Raju,1,ben,Bengali,5,Hinduism,p17933.jpg,Y,390,350,,,30,,
+IN,India,IN30,"Arunachal Pradesh",17935,Ralte,3,lus,Mizo,1,Christianity,,N,100,,,,90,,
+IN,India,IN30,"Arunachal Pradesh",17963,Rengma,3,nre,"Naga, Southern Rengma",1,Christianity,p17963.jpg,N,20,,,,20,,
+IN,India,IN30,"Arunachal Pradesh",13041,Rongkup,2,lep,Lepcha,2,Buddhism,p13041.jpg,N,210,,,210,,,
+IN,India,IN30,"Arunachal Pradesh",17033,Rongmei,3,nkf,"Naga, Inpui",1,Christianity,p17033.jpg,N,50,,,,50,,
+IN,India,IN30,"Arunachal Pradesh",18015,Sangtam,3,nsa,"Naga, Sangtam",1,Christianity,p18015.jpg,N,130,,,,130,,
+IN,India,IN30,"Arunachal Pradesh",14743,"Santal (Sawntal)",2,sat,Santhali,5,Hinduism,p14743.jpg,N,8990,6360,,120,1050,,1460
+IN,India,IN30,"Arunachal Pradesh",18023,"Saora unspecified",2,ory,Odia,5,Hinduism,p18023.jpg,N,2180,2060,,,150,,10
+IN,India,IN30,"Arunachal Pradesh",18035,Sarki,1,npi,Nepali,5,Hinduism,p18035.jpg,N,170,170,,,10,,
+IN,India,IN30,"Arunachal Pradesh",21560,Sartang,1,onp,Sartang,2,Buddhism,,N,4030,30,,3930,60,,20
+IN,India,IN30,"Arunachal Pradesh",18045,Sayyid,1,urd,Urdu,6,Islam,p18045.jpg,Y,240,,240,,,,
+IN,India,IN30,"Arunachal Pradesh",18071,Sema,3,nsm,"Naga, Sumi",1,Christianity,p18071.jpg,N,330,,,,330,,
+IN,India,IN30,"Arunachal Pradesh",18084,"Shaikh unspecified",1,urd,Urdu,6,Islam,p18084.jpg,Y,11320,,11320,,,,
+IN,India,IN30,"Arunachal Pradesh",18087,Sherdukpen,1,sdp,Sherdukpen,2,Buddhism,p18087.jpg,N,4080,30,,3980,30,,30
+IN,India,IN30,"Arunachal Pradesh",14906,Sherpa,2,npi,Nepali,2,Buddhism,p14906.jpg,N,280,30,,250,,,
+IN,India,IN30,"Arunachal Pradesh",18108,Simong,2,adi,Adi,9,Unknown,,N,3060,50,20,,1250,,1700
+IN,India,IN30,"Arunachal Pradesh",18111,Singpho,2,sgp,Singpho,2,Buddhism,p18111.jpg,N,6660,100,10,6380,110,,20
+IN,India,IN30,"Arunachal Pradesh",18150,"Sonar (Hindu traditions)",1,hin,Hindi,5,Hinduism,p18150.jpg,Y,150,150,,,,,
+IN,India,IN30,"Arunachal Pradesh",18190,"Sunri (Hindu traditions)",1,ben,Bengali,5,Hinduism,p18190.jpg,N,1470,1460,,,20,,
+IN,India,IN30,"Arunachal Pradesh",21257,"Sunri Sadhubanik",1,ben,Bengali,5,Hinduism,p21257.jpg,N,120,120,,,,,
+IN,India,IN30,"Arunachal Pradesh",18152,Sunuwar,1,npi,Nepali,5,Hinduism,p18152.jpg,N,930,910,,,10,,
+IN,India,IN30,"Arunachal Pradesh",18194,"Sutradhar (Hindu traditions)",1,ben,Bengali,5,Hinduism,p18194.jpg,Y,370,370,,,,,
+IN,India,IN30,"Arunachal Pradesh",18199,"Syrian Christian",3,mal,Malayalam,1,Christianity,p18199.jpg,N,160,,,,160,,
+IN,India,IN30,"Arunachal Pradesh",18203,Tagin,2,tgj,Tagin,9,Unknown,,N,73140,10550,180,380,8670,10,53290
+IN,India,IN30,"Arunachal Pradesh",18205,"Tai Man",2,phk,Phake,2,Buddhism,p18205.jpg,N,180,,,180,,,
+IN,India,IN30,"Arunachal Pradesh",18212,Tamang,2,npi,Nepali,2,Buddhism,p18212.jpg,N,4410,950,,3140,330,,
+IN,India,IN30,"Arunachal Pradesh",15252,Tangsa,3,nst,"Naga, Tangshang",1,Christianity,,N,18090,2240,160,520,11400,20,3800
+IN,India,IN30,"Arunachal Pradesh",16899,"Tangsa Haisa",2,adi,Adi,1,Christianity,,N,1190,190,,,510,,490
+IN,India,IN30,"Arunachal Pradesh",17135,"Tangsa Kemsing",3,nst,"Naga, Tangshang",1,Christianity,,N,1540,60,10,30,1440,,10
+IN,India,IN30,"Arunachal Pradesh",17366,"Tangsa Longchang",2,nst,"Naga, Tangshang",9,Unknown,,N,3680,180,10,30,820,,2630
+IN,India,IN30,"Arunachal Pradesh",17641,"Tangsa Moglum",2,nst,"Naga, Tangshang",9,Unknown,,N,3080,870,,50,650,,1520
+IN,India,IN30,"Arunachal Pradesh",17653,"Tangsa Mossang",3,nst,"Naga, Tangshang",1,Christianity,,N,4600,160,10,30,4260,,130
+IN,India,IN30,"Arunachal Pradesh",18794,"Tangsa Roerah",3,nst,"Naga, Tangshang",1,Christianity,,N,1760,30,,90,1640,,
+IN,India,IN30,"Arunachal Pradesh",20817,"Tangsa Taisen",2,nst,"Naga, Tangshang",9,Unknown,,N,1300,280,,10,390,,610
+IN,India,IN30,"Arunachal Pradesh",18270,"Tangsa Tikhak",2,nst,"Naga, Tangshang",2,Buddhism,p18270.jpg,N,2720,30,,2120,570,,10
+IN,India,IN30,"Arunachal Pradesh",18350,"Tangsa Yougli",3,nst,"Naga, Tangshang",1,Christianity,,N,1220,10,,,890,,300
+IN,India,IN30,"Arunachal Pradesh",18217,"Tanti (Hindu traditions)",1,ben,Bengali,5,Hinduism,p18217.jpg,Y,5970,5970,,,,,
+IN,India,IN30,"Arunachal Pradesh",16225,Tanu,2,apt,Apatani,9,Unknown,p16225.jpg,N,51950,2970,130,70,11280,10,37420
+IN,India,IN30,"Arunachal Pradesh",18229,"Teli (Hindu traditions)",1,hin,Hindi,5,Hinduism,p18229.jpg,Y,2440,2440,,,,,
+IN,India,IN30,"Arunachal Pradesh",18261,Thakuri,1,npi,Nepali,5,Hinduism,p18261.jpg,N,390,370,,10,10,,
+IN,India,IN30,"Arunachal Pradesh",15464,Tharu,1,bho,Bhojpuri,5,Hinduism,p15464.jpg,N,1330,1250,,,90,,
+IN,India,IN30,"Arunachal Pradesh",18254,Tili,1,ben,Bengali,5,Hinduism,p18254.jpg,Y,1070,1070,,,,,
+IN,India,IN30,"Arunachal Pradesh",15498,Tipera,2,trp,"Kok Borok",5,Hinduism,p15498.jpg,N,100,100,,,,,
+IN,India,IN30,"Arunachal Pradesh",17357,Tiwa,1,asm,Assamese,5,Hinduism,p17357.jpg,N,2260,1580,,190,500,,
+IN,India,IN30,"Arunachal Pradesh",18273,"Turi (Hindu traditions)",1,hin,Hindi,5,Hinduism,p18273.jpg,N,1400,1390,,,10,,
+IN,India,IN30,"Arunachal Pradesh",18263,"Tutcha Nocte",3,njb,"Naga, Nocte",1,Christianity,,N,1230,280,,,740,,200
+IN,India,IN30,"Arunachal Pradesh",22348,"Valmiki (Hindu traditions)",1,hin,Hindi,5,Hinduism,p22348.jpg,Y,370,370,,,,,
+IN,India,IN30,"Arunachal Pradesh",18328,Wancho,3,nnp,"Naga, Wancho",1,Christianity,p18328.jpg,N,75220,6800,290,230,67150,10,660
+IN,India,IN30,"Arunachal Pradesh",16187,"Yadav (Hindu traditions)",1,hin,Hindi,5,Hinduism,p16187.jpg,Y,5700,5700,,,,,
+IN,India,IN30,"Arunachal Pradesh",21301,"Yadav Sadgope",1,ben,Bengali,5,Hinduism,p21301.jpg,Y,610,610,,,,,
+IN,India,IN30,"Arunachal Pradesh",13065,"Yakthumba, Limbu",2,npi,Nepali,5,Hinduism,p13065.jpg,N,740,290,,,20,,450
+IN,India,IN30,"Arunachal Pradesh",18347,Yimchungra,3,yim,"Naga, Yimchungru",1,Christianity,p18347.jpg,N,100,,,,100,,
+IN,India,IN30,"Arunachal Pradesh",18357,Zeliang,3,nzm,"Naga, Zeme",1,Christianity,p18357.jpg,N,140,10,,,140,,
+BT,Bhutan,18386,113979,Adi,Adi,2800,1,Y,adi,Adi,5,9,Unknown,0.000,0.000,21,A012,"South Asian Peoples",103,C0004,Adi,3,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.03247,90.188702
+BT,Bhutan,10461,114973,"Assamese (Muslim traditions)","Assamese (Muslim traditions)",2000,1,Y,asm,Assamese,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",2,4,"Asia, South",ASI,Asia,Y,N,1,Y,26.881042000188,90.239869000054
+BT,Bhutan,16318,111452,Bania,Bania,3900,1,Y,asm,Assamese,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",416,A012,"South Asia Forward Caste - Bania",6,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.467418,89.632988
+BT,Bhutan,16450,111611,"Bhotia Sikkim","Bhotia Sikkim",6300,1,Y,sip,Sikkimese,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",2,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.48473,89.73722
+BT,Bhutan,16492,111662,"Bodo (Hindu traditions)","Bodo (Hindu traditions)",6700,1,Y,brx,"Boro (India)",5,5,Hinduism,1.351,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,N,26.9373,90.488
+BT,Bhutan,16521,111696,Brahmin,Brahmin,6200,1,Y,asm,Assamese,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",417,A012,"South Asia Forward Caste - Brahmin",6,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.463057,89.646337
+BT,Bhutan,16524,111700,Broq-Pa,Broq-Pa,5800,1,Y,sgt,Brokpake,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.65289,90.65003
+BT,Bhutan,12601,104795,Bumthangpa,Bumthangpa,23000,1,Y,kjz,Bumthangkha,3,2,Buddhism,0.585,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.63744,90.74346
+BT,Bhutan,18909,114869,Chali,Chali,1800,1,Y,tgf,Chalikha,1,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.32016,91.25909
+BT,Bhutan,16589,111785,Chhetri,Chhetri,4300,1,Y,npi,Nepali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.461022,89.638153
+BT,Bhutan,11478,102397,Dakpa,Dakpa,4500,1,Y,dka,Dakpakha,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.3368,91.98742
+BT,Bhutan,16664,111878,Darjee,Darjee,1900,1,Y,npi,Nepali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",3,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.512475,89.634182
+BT,Bhutan,19007,114916,Deaf,Deaf,5900,1,Y,xxx,"Language unknown",0,2,Buddhism,2.110,,26,A017,Deaf,328,C0252,Deaf,216,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.445864153808,89.662557057362
+BT,Bhutan,16745,111992,Drukpa,Drukpa,222000,1,Y,dzo,Dzongkha,5,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",3,4,"Asia, South",ASI,Asia,Y,Y,4,Y,27.474116,89.635157
+BT,Bhutan,19267,114868,Dzala,Dzala,17000,1,Y,dzl,Dzalakha,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.78518,91.38925
+BT,Bhutan,11924,103435,Gongduk,Gongduk,2500,1,Y,goe,Gongduk,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.06592,91.16799
+BT,Bhutan,15366,110781,"Gurung Ghaleg","Gurung Ghaleg",9900,1,Y,npi,Nepali,5,2,Buddhism,3.868,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",4,4,"Asia, South",ASI,Asia,Y,N,1,N,27.048776,89.556334
+BT,Bhutan,17296,112674,"Kachari Sonwal","Kachari Sonwal",1100,1,Y,asm,Assamese,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",2,4,"Asia, South",ASI,Asia,Y,N,1,Y,26.858321,91.461413
+BT,Bhutan,17016,112347,Kaibartta,Kaibartta,1200,1,Y,asm,Assamese,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",3,4,"Asia, South",ASI,Asia,Y,N,1,Y,26.851388,91.468061
+BT,Bhutan,17124,112470,"Kayastha (Hindu traditions)","Kayastha (Hindu traditions)",1600,1,Y,ben,Bengali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",431,A012,"South Asia Hindu - Kayastha",4,4,"Asia, South",ASI,Asia,Y,N,1,Y,26.872027,89.406838
+BT,Bhutan,17148,112497,Khambu,Khambu,1500,1,Y,asm,Assamese,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.128323,88.876149
+BT,Bhutan,18522,114136,"Khampa Eastern","Khampa Tibetan",1700,1,Y,kbg,Khamba,2,2,Buddhism,0.000,0.000,23,A014,"Tibetan-Himalayan Peoples",304,C0216,Tibetan,3,4,"Asia, South",ASI,Asia,Y,N,1,Y,28.012563,89.957884
+BT,Bhutan,17159,112509,Khas,Khas,1000,1,Y,ben,Bengali,5,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,N,1,Y,26.993299,88.893102
+BT,Bhutan,12658,104937,Kheng,Kheng,36000,1,Y,xkf,Khengkha,4,2,Buddhism,0.198,0.198,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.08761,90.88402
+BT,Bhutan,12878,105463,Kurtokha,Kurtokha,2200,1,Y,xkz,Kurtokha,1,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.77672,91.00441
+BT,Bhutan,19588,115327,"Lap, Lakha","Lap, Lakha",11000,1,Y,lkh,Lakha,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.63192,90.30973
+BT,Bhutan,19657,115328,Layakha,Layakha,3500,1,Y,lya,Layakha,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.07075,89.70637
+BT,Bhutan,18359,113916,Lhokpu,Lhokpu,3500,1,Y,lhp,Lhokpu,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.91347000004,89.309940000331
+BT,Bhutan,13080,105808,Loba,Loba,2200,1,Y,loy,Lhowa,4,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",2,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.483292,89.635135
+BT,Bhutan,19658,115329,Lunape,Lunape,1200,1,Y,luk,Lunanakha,1,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.12933,90.11325
+BT,Bhutan,11698,102848,Magar,Magar,2800,1,Y,asm,Assamese,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",4,4,"Asia, South",ASI,Asia,Y,N,1,Y,26.8,90.2
+BT,Bhutan,19268,115324,Matpa,Matpa,21000,1,Y,cgk,Chocangacakha,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.47975,91.21506
+BT,Bhutan,17648,113086,Monpa,Monpa,99000,1,Y,tsj,Tshangla,4,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",2,4,"Asia, South",ASI,Asia,Y,Y,2,Y,27.336698,91.552653
+BT,Bhutan,17207,112573,"Monpa Kalaktang","Monpa Kalaktang",1100,1,Y,tsj,Tshangla,4,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.131331,92.06847
+BT,Bhutan,13867,106893,Munda,Munda,2000,2,N,unr,Mundari,5,5,Hinduism,5.113,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",5,4,"Asia, South",ASI,Asia,Y,N,,N,26.893107,90.485768
+BT,Bhutan,17756,113215,"Namassej (Hindu traditions)","Namassej (Hindu traditions)",4900,1,Y,ben,Bengali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",411,A012,"South Asia Dalit - Namassej",4,4,"Asia, South",ASI,Asia,Y,N,1,Y,26.87286,89.389473
+BT,Bhutan,13322,107217,Newah,Newah,3700,1,Y,npi,Nepali,5,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",4,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.49385,89.640008
+BT,Bhutan,20712,101373,Ngalong,Ngalong,91000,1,Y,dzo,Dzongkha,5,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,2,Y,27.479432,89.626913
+BT,Bhutan,19269,115325,Nupbi,Nupbi,3100,1,Y,npb,Nupbikha,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.42932,90.53413
+BT,Bhutan,19270,115326,Nyenpa,Nyenpa,13000,1,Y,neh,Nyenkha,1,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.37319,90.37397
+BT,Bhutan,14210,107674,Oraon,"Oraon, Kurux",10000,1,Y,kru,Kurux,5,5,Hinduism,2.266,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",4,4,"Asia, South",ASI,Asia,Y,N,1,N,27.05338,89.1366
+BT,Bhutan,17922,113406,Rabha,Rabha,1600,1,Y,asm,Assamese,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",2,4,"Asia, South",ASI,Asia,Y,N,1,Y,26.881119,90.534649
+BT,Bhutan,17925,113409,Rai,Rai,3900,1,Y,asm,Assamese,5,8,"Other / Small",0.000,0.000,21,A012,"South Asian Peoples",468,A012,"South Asia - other",4,4,"Asia, South",ASI,Asia,Y,N,1,Y,26.940372,89.057988
+BT,Bhutan,14513,108268,"Rajbansi (Hindu traditions)","Rajbansi (Hindu traditions)",10000,1,Y,rkt,Rangpuri,4,5,Hinduism,1.809,,21,A012,"South Asian Peoples",414,A012,"South Asia Dalit - Rajbansi",4,4,"Asia, South",ASI,Asia,Y,N,1,N,27.444511,89.667684
+BT,Bhutan,17928,113412,"Rajput (Hindu traditions)","Rajput (Hindu traditions)",1500,1,Y,ben,Bengali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",420,A012,"South Asia Forward Caste - Rajput",6,4,"Asia, South",ASI,Asia,Y,N,1,Y,26.923134,89.522871
+BT,Bhutan,13041,105723,Rongkup,Rongkup,3000,1,Y,lep,Lepcha,4,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",3,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.00628,89.26624
+BT,Bhutan,14743,108674,"Santal (Sawntal)","Santal (Sawntal)",5400,1,Y,sat,Santhali,5,5,Hinduism,2.593,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",4,4,"Asia, South",ASI,Asia,Y,N,1,N,26.951193,89.419765
+BT,Bhutan,18035,113530,Sarki,Sarki,1700,1,Y,npi,Nepali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.431494,89.418478
+BT,Bhutan,18084,113585,Shaikh,Shaikh,9300,1,Y,ben,Bengali,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",466,A012,"South Asia Muslim - Shaikh",9,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.474249,89.637381
+BT,Bhutan,11685,102831,Sharchop,Sharchop,68000,1,Y,tsj,Tshangla,4,2,Buddhism,0.151,0.151,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.11883,91.39715
+BT,Bhutan,18087,113588,Sherdukpen,Sherdukpen,300,1,Y,sdp,Sherdukpen,2,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",2,4,"Asia, South",ASI,Asia,Y,N,1,Y,26.954751,92.092123
+BT,Bhutan,14906,108938,Sherpa,Sherpa,10000,1,Y,xsr,Sherpa,4,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",5,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.464386,89.165913
+BT,Bhutan,18212,102861,Tamang,Tamang,9400,1,Y,npi,Nepali,5,2,Buddhism,3.594,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",3,4,"Asia, South",ASI,Asia,Y,N,1,N,27.846232,89.586374
+BT,Bhutan,15468,110033,Tibetan,Tibetan,4600,1,Y,bod,"Tibetan, Central",5,2,Buddhism,0.000,0.000,23,A014,"Tibetan-Himalayan Peoples",304,C0216,Tibetan,14,4,"Asia, South",ASI,Asia,Y,N,1,Y,28.19022,90.17648
+BT,Bhutan,19656,110209,Tseku,Tseku,6700,1,Y,tsk,Tseku,1,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",2,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.81285,89.36223
+BT,Bhutan,19198,117150,Walang,Walang,3700,1,Y,bap,Bantawa,4,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",3,4,"Asia, South",ASI,Asia,Y,N,1,Y,27.133803,88.971297
+BT,Bhutan,16187,111292,"Yadav (Hindu traditions)","Yadav (Hindu traditions)",1900,1,Y,asm,Assamese,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",450,A012,"South Asia Hindu - Yadav",6,4,"Asia, South",ASI,Asia,Y,N,1,Y,26.916736,90.493746
+BT,Bhutan,13065,105776,"Yakthumba, Limbu","Yakthumba, Limbu",1800,1,Y,npi,Nepali,5,8,"Other / Small",3.750,,21,A012,"South Asian Peoples",468,A012,"South Asia - other",3,4,"Asia, South",ASI,Asia,Y,N,1,N,26.866589,90.266874
+NP,Nepal,16152,111252,Abdul,Abdul,1500,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.442443064845,82.17540409226
+NP,Nepal,20054,115688,"Adibasi Janajati","Adibasi Janajati",1300,1,Y,npi,Nepali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.925253212441,80.752818162618
+NP,Nepal,16184,111289,Ahar,Ahar,2400,1,Y,awa,Awadhi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.901461161429,83.090655901942
+NP,Nepal,16206,111315,Amat,Amat,3500,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.177469572244,86.513675763014
+NP,Nepal,16221,111334,Ansari,Ansari,52000,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",452,A012,"South Asia Muslim - Ansari",6,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.554521882875,81.844586528332
+NP,Nepal,10476,100597,"Ath Pahariya","Ath Pahariya",7000,1,Y,aph,Athpariya,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.337256172904,87.612906516549
+NP,Nepal,16332,111468,"Badhai (Hindu traditions)","Badhai (Hindu traditions)",38000,1,Y,mai,Maithili,4,5,Hinduism,0.153,,21,A012,"South Asian Peoples",421,A012,"South Asia Hindu - Badhai",3,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.928144387862,83.424622262064
+NP,Nepal,16333,111469,"Badhai (Muslim traditions)","Badhai (Muslim traditions)",2800,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",421,A012,"South Asia Hindu - Badhai",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.9850136437,82.629934919785
+NP,Nepal,16273,111398,"Badhi (Hindu traditions)","Badhi (Hindu traditions)",45000,1,Y,npi,Nepali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.673567424257,82.049786609137
+NP,Nepal,16284,111409,"Baghban (Muslim traditions)","Baghban (Muslim traditions)",1100,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.022695,82.362857
+NP,Nepal,10564,100760,Baha'i,Baha'i,1400,1,Y,npi,Nepali,5,8,"Other / Small",0.000,0.000,21,A012,"South Asian Peoples",468,A012,"South Asia - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.015398838235,85.735855512234
+NP,Nepal,20739,108438,Bahing,Bahing,3300,1,Y,bhj,Bahing,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.345166,86.434351
+NP,Nepal,20279,115836,"Bahna (Hindu traditions)","Bahna (Hindu traditions)",18000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,29.041585147192,80.43799715961
+NP,Nepal,16297,111424,"Bairagi (Hindu traditions)","Bairagi (Hindu traditions)",286000,1,Y,npi,Nepali,5,5,Hinduism,0.045,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",4,4,"Asia, South",ASI,Asia,Y,Y,6,Y,26.981031643267,88.079395754627
+NP,Nepal,16487,111656,"Bangali (Hindu traditions)","Bangali (Hindu traditions)",30000,1,Y,mai,Maithili,4,5,Hinduism,0.543,,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.154628453211,87.280991619692
+NP,Nepal,19688,115140,"Bania Agarwal","Bania Agarwal",22000,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",416,A012,"South Asia Forward Caste - Bania",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.008231011877,85.891372211034
+NP,Nepal,19689,115141,"Bania Agrahari","Bania Agrahari",2700,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",416,A012,"South Asia Forward Caste - Bania",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.801814268945,83.096363334596
+NP,Nepal,19703,115155,"Bania Kasaundhan","Bania Kasaundhan",2400,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",416,A012,"South Asia Forward Caste - Bania",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.101381953647,83.575455854849
+NP,Nepal,19705,115157,"Bania Khatri","Bania Khatri",1100,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",416,A012,"South Asia Forward Caste - Bania",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.728844137734,87.700796154325
+NP,Nepal,19713,115165,"Bania Mahur","Bania Mahur",1300,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",416,A012,"South Asia Forward Caste - Bania",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.919151929395,83.937847032878
+NP,Nepal,19721,115174,"Bania Rauniar","Bania Rauniar",3200,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",416,A012,"South Asia Forward Caste - Bania",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.684251692819,85.708378603718
+NP,Nepal,16318,111452,Bania,"Bania unspecified",128000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",416,A012,"South Asia Forward Caste - Bania",6,4,"Asia, South",ASI,Asia,Y,Y,3,Y,27.297345307109,84.909033022393
+NP,Nepal,16325,111459,Bantar,Bantar,65000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.28661281023,86.900645107557
+NP,Nepal,20740,101014,Bantawa,Bantawa,5300,1,Y,bap,Bantawa,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.6799,87.460397
+NP,Nepal,10687,101059,Baramu,Baramu,9300,1,Y,npi,Nepali,5,5,Hinduism,0.253,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,28.487958,84.88969
+NP,Nepal,16334,111470,"Bari (Hindu traditions)","Bari (Hindu traditions)",11000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.681826238622,83.77611640985
+NP,Nepal,16367,111509,"Bedia (Hindu traditions)","Bedia (Hindu traditions)",28000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.727027454347,83.91625412093
+NP,Nepal,17489,112902,"Bedia (Muslim traditions)","Bedia (Muslim traditions)",2500,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.586542998845,84.847420731606
+NP,Nepal,16375,111517,"Beldar (Hindu traditions)","Beldar (Hindu traditions)",3400,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.860881169603,83.698684267499
+NP,Nepal,13761,106706,"Bengali Muslim Moghal","Bengali Muslim Moghal",2400,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",6,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.344627572205,82.465133783861
+NP,Nepal,16423,111574,"Bhand (Muslim traditions)","Bhand (Muslim traditions)",8800,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.221280801078,83.643162350918
+NP,Nepal,16405,111553,Bhar,Bhar,4300,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.644490522089,84.08275140374
+NP,Nepal,16429,111580,"Bhoi (Hindu traditions)","Bhoi (Hindu traditions)",148000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",422,A012,"South Asia Hindu - Bhoi",3,4,"Asia, South",ASI,Asia,Y,Y,3,Y,27.361779732157,86.23611867116
+NP,Nepal,20680,117070,"Bhoi Kamti","Bhoi Kamti",1400,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",422,A012,"South Asia Hindu - Bhoi",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.717118,85.921691
+NP,Nepal,21118,117941,"Bhoi Kharbind","Bhoi Kharbind",11000,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",422,A012,"South Asia Hindu - Bhoi",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.579979180567,83.396387078692
+NP,Nepal,21119,117942,"Bhoi Kharot","Bhoi Kharot",7500,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",422,A012,"South Asia Hindu - Bhoi",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.575422001317,83.406811007402
+NP,Nepal,21684,118472,"Bhoi Mallah Mewat","Bhoi Mallah Mewat",8800,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",422,A012,"South Asia Hindu - Bhoi",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.57517,83.3955
+NP,Nepal,21121,117944,"Bhoi Nikhad","Bhoi Nikhad",2300,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",422,A012,"South Asia Hindu - Bhoi",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.579292853639,83.419663623484
+NP,Nepal,16434,111585,Bhote,Bhote,16000,1,Y,npi,Nepali,5,2,Buddhism,1.400,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,28.704422776416,81.658810342037
+NP,Nepal,16457,111621,Bind,Bind,86000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,2,Y,27.908259580874,85.362927057481
+NP,Nepal,16514,111686,Bote-Majhi,Bote-Majhi,13000,1,Y,bmj,Bote,3,5,Hinduism,0.873,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,28.153650107096,85.033385767044
+NP,Nepal,19924,115705,"Brahmin Bhumihar","Brahmin Bhumihar",20000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.149997482288,87.53252776295
+NP,Nepal,20346,116130,"Brahmin Bohara","Brahmin Bohara",1200,1,Y,hin,Hindi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",417,A012,"South Asia Forward Caste - Brahmin",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.71245,85.354
+NP,Nepal,19943,115717,"Brahmin Gaur","Brahmin Gaur",8300,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",417,A012,"South Asia Forward Caste - Brahmin",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.871817407003,87.843678435467
+NP,Nepal,20056,115722,"Brahmin Hill","Brahmin Hill",3772000,1,Y,npi,Nepali,5,5,Hinduism,0.003,,21,A012,"South Asian Peoples",417,A012,"South Asia Forward Caste - Brahmin",1,4,"Asia, South",ASI,Asia,Y,Y,75,Y,27.845695769966,85.619371176089
+NP,Nepal,19948,115724,"Brahmin Jijhotia","Brahmin Jijhotia",1700,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",417,A012,"South Asia Forward Caste - Brahmin",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.399495758732,85.330628381662
+NP,Nepal,19949,115725,"Brahmin Joshi","Brahmin Joshi",2400,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",417,A012,"South Asia Forward Caste - Brahmin",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.75618104145,85.434152496175
+NP,Nepal,19951,115727,"Brahmin Kanaujia","Brahmin Kanaujia",7400,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",417,A012,"South Asia Forward Caste - Brahmin",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.124950599559,82.981374102372
+NP,Nepal,19956,115732,"Brahmin Khandelwal","Brahmin Khandelwal",2300,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",417,A012,"South Asia Forward Caste - Brahmin",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.212728712589,85.234813013541
+NP,Nepal,19972,115753,"Brahmin Radhi","Brahmin Radhi",3900,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",417,A012,"South Asia Forward Caste - Brahmin",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.722495658432,87.042767816857
+NP,Nepal,19974,115755,"Brahmin Sakaldwipi","Brahmin Sakaldwipi",3400,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",417,A012,"South Asia Forward Caste - Brahmin",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.240014815611,83.679216481148
+NP,Nepal,19977,115758,"Brahmin Saraswat","Brahmin Saraswat",3200,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",417,A012,"South Asia Forward Caste - Brahmin",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.841570688598,87.648079964921
+NP,Nepal,19978,115759,"Brahmin Sawaria","Brahmin Sawaria",6700,1,Y,awa,Awadhi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",417,A012,"South Asia Forward Caste - Brahmin",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.073868967193,83.820751021023
+NP,Nepal,20057,115767,"Brahmin Terai","Brahmin Terai",122000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",417,A012,"South Asia Forward Caste - Brahmin",1,4,"Asia, South",ASI,Asia,Y,Y,2,Y,27.849857809661,83.827477669263
+NP,Nepal,19335,101831,Byansi,Byansi,4900,1,Y,hut,Humla,0,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,29.795771,81.272118
+NP,Nepal,16561,111752,"Chamar (Hindu traditions)","Chamar (Hindu traditions)",378000,1,Y,mai,Maithili,4,5,Hinduism,0.200,,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",4,4,"Asia, South",ASI,Asia,Y,Y,8,N,27.733075611115,83.98226987409
+NP,Nepal,20741,102001,Chamling,Chamling,7600,1,Y,rab,Chamling,4,8,"Other / Small",0.000,0.000,21,A012,"South Asian Peoples",468,A012,"South Asia - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.060052,86.726563
+NP,Nepal,11322,102072,Chepang,"Chepang, Tsepang",80000,2,N,cdm,Chepang,4,5,Hinduism,10.252,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,,N,28.089389420874,85.583600993115
+NP,Nepal,19326,102071,Chhantyal,Chhantyal,14000,1,Y,npi,Nepali,5,5,Hinduism,2.571,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,29.229942132355,83.923105062144
+NP,Nepal,16589,111785,Chhetri,Chhetri,5153000,1,Y,npi,Nepali,5,5,Hinduism,0.140,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,103,N,27.591395,85.544145
+NP,Nepal,16558,111749,Chidimar,Chidimar,5200,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.751583282095,81.682976928663
+NP,Nepal,16612,111819,Churaute,Churaute,2900,1,Y,npi,Nepali,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.957675074595,83.26500705206
+NP,Nepal,11499,102443,Danuwar,"Danuwar Rai",98000,1,Y,dhw,Danuwar,3,5,Hinduism,0.494,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,2,N,28.046060879495,85.175051460079
+NP,Nepal,11503,102448,Darai,Darai,21000,1,Y,dry,Darai,3,5,Hinduism,1.105,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.882352579563,84.753160533573
+NP,Nepal,16664,111878,Darjee,Darjee,553000,1,Y,npi,Nepali,5,5,Hinduism,1.073,,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",3,4,"Asia, South",ASI,Asia,Y,Y,11,N,29.18751966949,81.762340401483
+NP,Nepal,16673,111889,"Darzi (Hindu traditions)","Darzi (Hindu traditions)",8800,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.766719726381,83.296817581998
+NP,Nepal,17513,112930,"Darzi (Muslim traditions)","Darzi (Muslim traditions)",24000,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.210500730618,82.736295281133
+NP,Nepal,19007,114916,Deaf,Deaf,234000,1,Y,nsp,"Nepalese Sign Language",0,5,Hinduism,2.850,,26,A017,Deaf,328,C0252,Deaf,216,4,"Asia, South",ASI,Asia,Y,Y,5,N,27.664231,85.406565
+NP,Nepal,20742,117148,Dhandi,Dhandi,2300,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.690224,83.459646
+NP,Nepal,16696,111925,Dhanuk,Dhanuk,258000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,5,Y,27.56018376061,86.520302285425
+NP,Nepal,21135,117958,"Dhanuk Dhankar","Dhanuk Dhankar",7400,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.82929682508,86.075845348605
+NP,Nepal,16713,111949,Dharkar,Dharkar,3100,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.754281079498,83.633710814348
+NP,Nepal,11544,102575,Dhimal,Dhimal,32000,1,Y,dhi,Dhimal,4,5,Hinduism,1.300,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.295269044177,87.664743288283
+NP,Nepal,16709,111944,"Dhobi (Hindu traditions)","Dhobi (Hindu traditions)",132000,1,Y,mai,Maithili,4,5,Hinduism,0.053,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",5,4,"Asia, South",ASI,Asia,Y,Y,3,Y,27.065732730047,86.19759401217
+NP,Nepal,17519,112937,"Dhobi (Muslim traditions)","Dhobi (Muslim traditions)",8300,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.304043453961,82.528939223994
+NP,Nepal,21709,118497,"Dhobi Ajudhyabansi","Dhobi Ajudhyabansi",1700,1,Y,awa,Awadhi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.63095,82.99489
+NP,Nepal,21711,118499,"Dhobi Kanaujia","Dhobi Kanaujia",2200,1,Y,awa,Awadhi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.57517,83.3955
+NP,Nepal,11595,102678,Dolpa,Dolpa,4800,1,Y,xsr,Sherpa,4,2,Buddhism,1.095,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,29.332654,83.208854
+NP,Nepal,16734,111977,"Dom (Hindu traditions)","Dom (Hindu traditions)",16000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.181275409458,86.078451762921
+NP,Nepal,17522,112941,"Dom (Muslim traditions)","Dom (Muslim traditions)",1900,1,Y,bho,Bhojpuri,4,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.262140203005,83.820953247369
+NP,Nepal,16753,112001,Dura,Dura,6200,1,Y,npi,Nepali,5,5,Hinduism,3.064,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,N,28.243214,84.355099
+NP,Nepal,16742,111988,"Dusadh (Hindu traditions)","Dusadh (Hindu traditions)",245000,1,Y,mai,Maithili,4,5,Hinduism,0.062,,21,A012,"South Asian Peoples",407,A012,"South Asia Dalit - Dusadh",3,4,"Asia, South",ASI,Asia,Y,Y,5,Y,27.156042002063,86.170626379857
+NP,Nepal,16768,112021,"Gadaria (Hindu traditions)","Gadaria (Hindu traditions)",9400,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.908999644246,83.521339178723
+NP,Nepal,16770,112023,"Gaddi (Muslim traditions)","Gaddi (Muslim traditions)",1200,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.274809747266,82.206499078643
+NP,Nepal,16776,112034,Gandharva,Gandharva,8200,1,Y,npi,Nepali,5,5,Hinduism,2.737,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,28.291245509863,85.08207515069
+NP,Nepal,16839,112120,Gangai,Gangai,45000,1,Y,npi,Nepali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.864176124743,87.82579030185
+NP,Nepal,11879,103332,Gharti,Gharti,139000,1,Y,npi,Nepali,5,5,Hinduism,1.073,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,3,N,29.654024681725,82.811575828044
+NP,Nepal,16857,112139,Gonrhi,Gonrhi,1500,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.29542527683,85.490816592484
+NP,Nepal,16861,112143,"Goriya (Hindu traditions)","Goriya (Hindu traditions)",1100,1,Y,awa,Awadhi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.189857502219,82.366017494969
+NP,Nepal,16862,112144,Gosain,Gosain,2000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,29.367824747447,81.149907636897
+NP,Nepal,20743,103163,"Gurung Ghale","Gurung Ghale",27000,2,N,ghe,"Ghale, Southern",4,2,Buddhism,6.400,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,,N,28.229396,84.873367
+NP,Nepal,15366,110781,"Gurung Ghaleg","Gurung Ghaleg",616000,2,N,gvr,Gurung,4,2,Buddhism,5.014,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",4,4,"Asia, South",ASI,Asia,Y,Y,,N,28.452735934228,84.161199785946
+NP,Nepal,12027,103627,Hadi,Hadi,2600,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.686409532508,87.784022406304
+NP,Nepal,19655,112187,Hajam,Hajam,43000,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",5,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.390289324265,84.879541560204
+NP,Nepal,16903,112196,"Halalkhor (Hindu traditions)","Halalkhor (Hindu traditions)",5100,1,Y,mai,Maithili,4,5,Hinduism,0.116,,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.312233073919,85.24214397509
+NP,Nepal,16905,112199,"Halwai (Hindu traditions)","Halwai (Hindu traditions)",98000,1,Y,mai,Maithili,4,5,Hinduism,0.047,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,2,Y,27.246003368593,86.056676491429
+NP,Nepal,21140,117962,"Halwai Maira","Halwai Maira",1900,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.825170267715,86.049701783352
+NP,Nepal,16916,112214,Hayu,Hayu,3500,1,Y,vay,Wayu,0,5,Hinduism,0.333,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.688374767574,86.355557201638
+NP,Nepal,12329,104206,"Jat (Hindu traditions)","Jat (Hindu traditions)",1200,1,Y,hin,Hindi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",427,A012,"South Asia Hindu - Jat",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.272277249041,85.693705612801
+NP,Nepal,18777,114456,"Jat (Sikh traditions)","Jat (Sikh traditions)",1100,1,Y,pan,"Punjabi, Eastern",5,8,"Other / Small",0.000,0.000,21,A012,"South Asian Peoples",469,A012,"South Asia Sikh - Jat",6,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.326649348397,81.834031746526
+NP,Nepal,17015,104283,Jirel,Jirel,6700,1,Y,jul,Jirel,4,2,Buddhism,4.381,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.888434341943,86.457609367517
+NP,Nepal,17019,112352,"Jogi (Hindu traditions)","Jogi (Hindu traditions)",1100,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.01862212722,87.530827348482
+NP,Nepal,17044,112380,"Kahar (Hindu traditions)","Kahar (Hindu traditions)",64000,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",429,A012,"South Asia Hindu - Kahar",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.145583564269,83.507559111901
+NP,Nepal,22425,104416,Kaike,Kaike,1700,1,Y,kzq,Kaike,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,29.05,83.07
+NP,Nepal,17204,112570,"Kalal (Hindu traditions)","Kalal (Hindu traditions)",1000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.200104888286,85.347073579329
+NP,Nepal,17061,112399,"Kalwar (Hindu traditions)","Kalwar (Hindu traditions)",132000,1,Y,mai,Maithili,4,5,Hinduism,0.186,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,3,N,27.299027644016,86.375461140015
+NP,Nepal,21150,117973,"Kalwar Jaiswal","Kalwar Jaiswal",6700,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.99165271563,85.587209714978
+NP,Nepal,21766,118553,"Kalwar Sunri","Kalwar Sunri",9500,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.82206,86.04394
+NP,Nepal,17066,112404,Kamar,Kamar,1900,1,Y,npi,Nepali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.84099866193,85.300871886175
+NP,Nepal,17069,112407,Kami,Kami,1475000,1,Y,npi,Nepali,5,5,Hinduism,1.557,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,30,N,28.02917096882,83.679659047931
+NP,Nepal,17080,112418,Kandu,Kandu,151000,1,Y,bho,Bhojpuri,4,5,Hinduism,0.062,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,3,Y,27.486281225056,84.936942046724
+NP,Nepal,17081,112420,"Kanjar (Hindu traditions)","Kanjar (Hindu traditions)",3600,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.20281467721,82.292744618825
+NP,Nepal,17122,112468,Kawar,Kawar,1500,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.798645623978,87.539525897708
+NP,Nepal,17124,112470,"Kayastha (Hindu traditions)","Kayastha (Hindu traditions)",52000,1,Y,mai,Maithili,4,5,Hinduism,0.414,,21,A012,"South Asian Peoples",431,A012,"South Asia Hindu - Kayastha",4,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.12567566543,86.72082408145
+NP,Nepal,21327,118155,"Kayastha Sribastab","Kayastha Sribastab",1200,1,Y,awa,Awadhi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",431,A012,"South Asia Hindu - Kayastha",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.09,81.82573
+NP,Nepal,20744,104476,Khaling,Khaling,1700,1,Y,klr,Khaling,5,8,"Other / Small",0.000,0.000,21,A012,"South Asian Peoples",468,A012,"South Asia - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.098311,87.223528
+NP,Nepal,17159,112509,Khas,Khas,20000,1,Y,npi,Nepali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.551255,87.986479
+NP,Nepal,17185,112541,Khatwa,Khatwa,120000,1,Y,mai,Maithili,4,5,Hinduism,0.097,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,2,Y,27.430421952442,86.386502511859
+NP,Nepal,17195,112559,Kisan,Kisan,2600,1,Y,kru,Kurux,5,5,Hinduism,1.335,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.118081901062,87.59114470279
+NP,Nepal,20018,105069,"Koch (Hindu traditions)","Koch (Hindu traditions)",1900,1,Y,rjs,Rajbanshi,4,5,Hinduism,0.628,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,N,26.73408865641,87.939342969102
+NP,Nepal,17236,112604,"Koiri (Hindu traditions)","Koiri (Hindu traditions)",359000,1,Y,mai,Maithili,4,5,Hinduism,0.286,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,7,N,27.585077429693,85.804853902649
+NP,Nepal,17247,112615,"Koli (Hindu traditions)","Koli (Hindu traditions)",2700,1,Y,awa,Awadhi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.97415022089,83.141429323566
+NP,Nepal,17263,112632,Kori,Kori,14000,1,Y,awa,Awadhi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.698613,83.512319
+NP,Nepal,20745,105381,Kulung,Kulung,32000,1,Y,kle,"Kulung (Nepal)",5,8,"Other / Small",0.289,,21,A012,"South Asian Peoples",468,A012,"South Asia - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.63127,86.85525
+NP,Nepal,12845,105395,Kumal,Kumal,142000,1,Y,npi,Nepali,5,5,Hinduism,2.294,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,3,N,29.451349955861,82.815515303267
+NP,Nepal,17316,112696,"Kumhar (Kusavar) (Hindu traditions)","Kumhar (Kusavar) (Hindu traditions)",74000,1,Y,mai,Maithili,4,5,Hinduism,0.141,,21,A012,"South Asian Peoples",433,A012,"South Asia Hindu - Kumhar",5,4,"Asia, South",ASI,Asia,Y,Y,1,N,28.277326542933,83.108493693789
+NP,Nepal,21176,117999,"Kumhar Magahia","Kumhar Magahia",1400,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",433,A012,"South Asia Hindu - Kumhar",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.828155658796,86.076488736045
+NP,Nepal,17334,112717,"Kurmi (Hindu traditions)","Kurmi (Hindu traditions)",271000,1,Y,bho,Bhojpuri,4,5,Hinduism,0.030,,21,A012,"South Asian Peoples",435,A012,"South Asia Hindu - Kurmi",4,4,"Asia, South",ASI,Asia,Y,Y,5,Y,27.610822166342,85.504820428302
+NP,Nepal,12931,105548,Kyerung,Kyerung,3700,1,Y,kgy,Kyerung,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.119674,85.351693
+NP,Nepal,18548,114165,Lhomi,"Lhomi, Shing Saapa",1300,1,Y,lhm,Lhomi,4,2,Buddhism,0.884,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",3,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.534526,87.7104
+NP,Nepal,13080,105808,Loba,Loba,3100,1,Y,loy,Lhowa,4,2,Buddhism,0.187,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",2,4,"Asia, South",ASI,Asia,Y,Y,1,N,28.91375,83.541154
+NP,Nepal,17378,112773,"Lodha (Hindu traditions)","Lodha (Hindu traditions)",39000,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.191459087738,83.207216625785
+NP,Nepal,17379,112774,"Lohar (Hindu traditions)","Lohar (Hindu traditions)",121000,1,Y,mai,Maithili,4,5,Hinduism,0.048,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",4,4,"Asia, South",ASI,Asia,Y,Y,2,Y,30.146434,81.355695
+NP,Nepal,20777,105824,Lohorung,Lohorung,1400,1,Y,lrr,"Yamphu, Southern",0,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.884161,88.029942
+NP,Nepal,17391,112789,"Lunia (Hindu traditions)","Lunia (Hindu traditions)",82000,1,Y,mai,Maithili,4,5,Hinduism,0.028,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,2,Y,27.401986976319,85.500555978323
+NP,Nepal,11698,102848,Magar,Magar,2214000,1,Y,npi,Nepali,5,5,Hinduism,2.275,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",4,4,"Asia, South",ASI,Asia,Y,Y,44,N,29.557886031187,82.212248687758
+NP,Nepal,13231,106076,Majhi,Majhi,98000,1,Y,npi,Nepali,5,5,Hinduism,2.951,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",2,4,"Asia, South",ASI,Asia,Y,Y,2,N,27.839358801153,85.909005361354
+NP,Nepal,17424,112825,"Mal (Hindu traditions)","Mal (Hindu traditions)",1400,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.183061217068,86.52995377001
+NP,Nepal,18786,114473,"Mali (Hindu traditions)","Mali (Hindu traditions)",17000,1,Y,mai,Maithili,4,5,Hinduism,0.138,,21,A012,"South Asian Peoples",440,A012,"South Asia Hindu - Mali",4,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.50208530091,85.754751874967
+NP,Nepal,17432,112835,"Mallah (Hindu traditions)","Mallah (Hindu traditions)",203000,1,Y,mai,Maithili,4,5,Hinduism,0.239,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,4,N,27.110960803692,86.099032587112
+NP,Nepal,21343,118169,"Mallah Chain (Hindu traditions)","Mallah Chain (Hindu traditions)",5400,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.74565,86.35293
+NP,Nepal,21486,118303,"Mallah Dhawa (Hindu traditions)","Mallah Dhawa (Hindu traditions)",2200,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.85011512,86.13277132
+NP,Nepal,21346,118172,"Mallah Kewat (Hindu traditions)","Mallah Kewat (Hindu traditions)",6600,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.74565,86.35293
+NP,Nepal,17446,112851,Manihar,Manihar,1800,1,Y,bho,Bhojpuri,4,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.196991645484,82.449519357436
+NP,Nepal,17526,112946,Mech,Mech,5800,1,Y,brx,"Boro (India)",5,5,Hinduism,1.715,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.254270024054,87.410974186806
+NP,Nepal,20746,107216,Mewahang,Mewahang,4600,1,Y,emg,"Mewahang, Eastern",4,8,"Other / Small",0.000,0.000,21,A012,"South Asian Peoples",468,A012,"South Asia - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.546008,87.08287
+NP,Nepal,20989,117708,Miyan,Miyan,35000,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.095785,84.828291
+NP,Nepal,17639,113075,"Mochi (Hindu traditions)","Mochi (Hindu traditions)",16000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.74565,86.35293
+NP,Nepal,13867,106893,Munda,"Munda, Horo",2600,2,N,mai,Maithili,4,5,Hinduism,5.445,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",5,4,"Asia, South",ASI,Asia,Y,Y,,N,27.340087999896,87.632202524486
+NP,Nepal,17708,113157,"Murao (Hindu traditions)","Murao (Hindu traditions)",2100,1,Y,awa,Awadhi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.203411845305,82.201871197945
+NP,Nepal,17711,113160,"Musahar (Hindu traditions)","Musahar (Hindu traditions)",275000,1,Y,mai,Maithili,4,5,Hinduism,0.504,,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",3,4,"Asia, South",ASI,Asia,Y,Y,6,N,27.126097028698,86.871219699879
+NP,Nepal,20747,106997,Nachhiring,Nachhiring,8700,1,Y,ncd,Nachiring,0,8,"Other / Small",0.000,0.000,21,A012,"South Asian Peoples",468,A012,"South Asia - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.359122,86.78646
+NP,Nepal,17745,113203,"Nai (Hindu traditions)","Nai (Hindu traditions)",138000,1,Y,mai,Maithili,4,5,Hinduism,0.084,,21,A012,"South Asian Peoples",441,A012,"South Asia Hindu - Nai",4,4,"Asia, South",ASI,Asia,Y,Y,3,Y,27.542950327677,85.861452355065
+NP,Nepal,17756,113215,"Namassej (Hindu traditions)","Namassej (Hindu traditions)",1500,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",411,A012,"South Asia Dalit - Namassej",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.499694177583,87.694248720014
+NP,Nepal,17763,113224,"Nat (Hindu traditions)","Nat (Hindu traditions)",3600,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,29.012071701241,81.365731905294
+NP,Nepal,13322,107217,Newah,Newah,1551000,1,Y,new,Newar,5,5,Hinduism,0.913,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",4,4,"Asia, South",ASI,Asia,Y,Y,31,N,28.256986538057,85.464723149962
+NP,Nepal,20782,117304,Nubri,Nubri,1800,1,Y,kte,Nubri,1,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.5295,84.7538
+NP,Nepal,14210,107674,Oraon,"Oraon, Dhangar",46000,1,Y,kru,Kurux,5,5,Hinduism,2.939,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",4,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.148030613265,86.399637422679
+NP,Nepal,19418,115804,Pahari,Pahari,16000,1,Y,npi,Nepali,5,5,Hinduism,2.520,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,28.368882355631,83.474081148531
+NP,Nepal,21537,116298,"Pashtun, Pathan","Pashtun, Pathan",11000,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",463,A012,"South Asia Muslim - Pashtun",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.197010602537,83.576024490026
+NP,Nepal,17852,113327,"Pasi (Hindu traditions)","Pasi (Hindu traditions)",4600,1,Y,bho,Bhojpuri,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",413,A012,"South Asia Dalit - Pasi",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.152443190781,83.6919416289
+NP,Nepal,17877,113353,Pinjara,Pinjara,21000,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.320968182141,82.517017993358
+NP,Nepal,17919,113401,Qassab,Qassab,2000,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,29.047455954075,81.205867723708
+NP,Nepal,17125,112472,Qazi,Qazi,12000,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.35018846961,81.895569445262
+NP,Nepal,17925,113409,Rai,Rai,726000,2,N,npi,Nepali,5,8,"Other / Small",5.558,,21,A012,"South Asian Peoples",468,A012,"South Asia - other",4,4,"Asia, South",ASI,Asia,Y,Y,,N,27.588793871055,86.971698858578
+NP,Nepal,14513,108268,"Rajbansi (Hindu traditions)","Rajbansi (Hindu traditions)",135000,2,N,rjs,Rajbanshi,4,5,Hinduism,5.397,,21,A012,"South Asian Peoples",414,A012,"South Asia Dalit - Rajbansi",4,4,"Asia, South",ASI,Asia,Y,Y,,N,27.023058677264,87.936291674432
+NP,Nepal,17930,113416,Rajbhar,Rajbhar,13000,1,Y,bho,Bhojpuri,4,5,Hinduism,1.042,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.756982758028,83.908596034777
+NP,Nepal,17968,113457,Rajdhob,Rajdhob,16000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.354749,86.700226
+NP,Nepal,14514,108272,Raji,Raji,5500,1,Y,rji,Raji,0,5,Hinduism,2.380,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,N,29.106692445795,81.879654268798
+NP,Nepal,17928,113412,"Rajput (Hindu traditions)","Rajput (Hindu traditions)",45000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",420,A012,"South Asia Forward Caste - Rajput",6,4,"Asia, South",ASI,Asia,Y,Y,1,Y,29.812042462486,80.544154309448
+NP,Nepal,17667,113109,"Rajput (Muslim traditions)","Rajput (Muslim traditions)",13000,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",464,A012,"South Asia Muslim - Rajput",5,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.772183756112,83.121003687732
+NP,Nepal,20231,115975,"Rajput Bais (Muslim traditions)","Rajput Bais (Muslim traditions)",1500,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",464,A012,"South Asia Muslim - Rajput",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.691111289004,83.58842798407
+NP,Nepal,20386,116170,"Rajput Chauhan (Hindu traditions)","Rajput Chauhan (Hindu traditions)",1200,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",420,A012,"South Asia Forward Caste - Rajput",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.699723608321,87.224494582391
+NP,Nepal,20235,115979,"Rajput Chauhan (Muslim traditions)","Rajput Chauhan (Muslim traditions)",2200,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",464,A012,"South Asia Muslim - Rajput",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.861380403137,83.69440891755
+NP,Nepal,20240,115984,"Rajput Nau","Rajput Nau",1300,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",464,A012,"South Asia Muslim - Rajput",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.222489634602,83.012320919364
+NP,Nepal,20226,115970,"Rajput Ponwar (Muslim traditions)","Rajput Ponwar (Muslim traditions)",1400,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",464,A012,"South Asia Muslim - Rajput",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.741368027947,83.134751931544
+NP,Nepal,14526,108317,Raute,Raute,1100,1,Y,npi,Nepali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,29.147172953387,81.338514847653
+NP,Nepal,17328,112710,"Rayeen (Muslim traditions)","Rayeen (Muslim traditions)",4900,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.454297021983,86.079767894971
+NP,Nepal,13041,105723,Rongkup,Rongkup,4800,1,Y,lep,Lepcha,4,2,Buddhism,3.562,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.58722969054,87.945164390657
+NP,Nepal,20748,108585,Sampang,Sampang,1800,1,Y,rav,Sampang,4,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.312962,86.847848
+NP,Nepal,14743,108674,"Santal (Sawntal)","Santal (Sawntal)",61000,2,N,sat,Santhali,5,5,Hinduism,7.004,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",4,4,"Asia, South",ASI,Asia,Y,Y,,N,27.024932313038,87.391575080522
+NP,Nepal,18023,113518,Saora,Saora,1800,2,N,srb,Sora,5,5,Hinduism,5.089,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",3,4,"Asia, South",ASI,Asia,Y,Y,,N,27.645547,85.331579
+NP,Nepal,20749,117149,Sarbaria,Sarbaria,3800,1,Y,npi,Nepali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.08456,87.324132
+NP,Nepal,18035,113530,Sarki,Sarki,440000,1,Y,npi,Nepali,5,5,Hinduism,2.137,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,9,N,28.183886769852,85.734675505271
+NP,Nepal,18045,113540,Sayyid,Sayyid,78000,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",465,A012,"South Asia Muslim - Sayyid",5,4,"Asia, South",ASI,Asia,Y,Y,2,Y,27.639885125394,85.77457683941
+NP,Nepal,18084,113585,Shaikh,Shaikh,959000,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",466,A012,"South Asia Muslim - Shaikh",9,4,"Asia, South",ASI,Asia,Y,Y,19,Y,27.089479253405,85.467678134027
+NP,Nepal,21236,118058,"Shaikh Qureshi","Shaikh Qureshi",20000,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",466,A012,"South Asia Muslim - Shaikh",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.0128,85.34
+NP,Nepal,14906,108938,Sherpa,Sherpa,129000,1,Y,xsr,Sherpa,4,2,Buddhism,4.222,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",5,4,"Asia, South",ASI,Asia,Y,Y,3,N,27.626681,86.657197
+NP,Nepal,12081,103752,"Sherpa Helambu","Sherpa Helambu",3000,1,Y,scp,Hyolmo,4,2,Buddhism,1.383,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.898671,86.883936
+NP,Nepal,18107,113610,"Silpkar (Hindu traditions)","Silpkar (Hindu traditions)",71000,1,Y,npi,Nepali,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",412,A012,"South Asia Dalit - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,29.004726843879,80.936762806748
+NP,Nepal,18150,113659,"Sonar (Hindu traditions)","Sonar (Hindu traditions)",77000,1,Y,mai,Maithili,4,5,Hinduism,0.121,,21,A012,"South Asian Peoples",443,A012,"South Asia Hindu - Sonar",5,4,"Asia, South",ASI,Asia,Y,Y,2,N,27.625772548492,83.880100085248
+NP,Nepal,18190,113705,"Sunri (Hindu traditions)","Sunri (Hindu traditions)",109000,1,Y,mai,Maithili,4,5,Hinduism,0.444,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,2,N,27.52655974018,86.044157861449
+NP,Nepal,18152,109614,Sunuwar,Sunuwar,66000,1,Y,suz,Sunwar,5,5,Hinduism,2.596,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.487172277868,87.452099753043
+NP,Nepal,19328,115556,Tajpuriya,Tajpuriya,22000,1,Y,rjs,Rajbanshi,4,5,Hinduism,1.303,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,26.780974315842,87.662395210241
+NP,Nepal,18212,102861,Tamang,Tamang,1799000,2,N,taj,"Tamang, Eastern",4,2,Buddhism,6.597,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",3,4,"Asia, South",ASI,Asia,Y,Y,,N,27.555024959737,85.97121813215
+NP,Nepal,18210,113730,"Tamboli (Hindu traditions)","Tamboli (Hindu traditions)",94000,1,Y,mai,Maithili,4,5,Hinduism,0.049,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",4,4,"Asia, South",ASI,Asia,Y,Y,2,Y,28.197703276457,82.257298401467
+NP,Nepal,18217,113743,"Tanti (Hindu traditions)","Tanti (Hindu traditions)",123000,1,Y,mai,Maithili,4,5,Hinduism,0.152,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,2,N,26.883224743624,86.397606295357
+NP,Nepal,18229,113757,"Teli (Hindu traditions)","Teli (Hindu traditions)",433000,1,Y,mai,Maithili,4,5,Hinduism,0.142,,21,A012,"South Asian Peoples",446,A012,"South Asia Hindu - Teli",5,4,"Asia, South",ASI,Asia,Y,Y,9,N,27.296310552012,86.651848439852
+NP,Nepal,17692,113137,"Teli (Muslim traditions)","Teli (Muslim traditions)",2100,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.758757275442,82.51829489415
+NP,Nepal,21259,118081,"Teli Gangauta (Hindu traditions)","Teli Gangauta (Hindu traditions)",15000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",446,A012,"South Asia Hindu - Teli",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.606102575183,86.743122297367
+NP,Nepal,18235,113764,Thakali,Thakali,14000,1,Y,npi,Nepali,5,5,Hinduism,4.414,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,N,28.838926694454,83.822051555414
+NP,Nepal,19330,115558,"Thakali Marphali","Thakali Marphali",2200,1,Y,ths,Thakali,0,2,Buddhism,1.793,,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,29.096041,83.743592
+NP,Nepal,18261,113798,Thakuri,Thakuri,498000,1,Y,npi,Nepali,5,5,Hinduism,1.572,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,10,N,29.058177303885,81.979994497507
+NP,Nepal,17980,113470,Thakuria,Thakuria,2900,1,Y,bho,Bhojpuri,4,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.376539599392,81.934571867599
+NP,Nepal,15461,110002,Thami,Thami,34000,1,Y,thf,Thangmi,4,5,Hinduism,0.873,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.723095429688,86.239315693041
+NP,Nepal,20779,117300,"Tharu Khawas","Tharu Khawas",1800,1,Y,npi,Nepali,5,5,Hinduism,1.965,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.708026,85.311959
+NP,Nepal,21355,118179,"Tharu Rana","Tharu Rana",244000,1,Y,thl,"Tharu, Dangaura",4,5,Hinduism,1.081,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,5,N,28.38998,81.39682
+NP,Nepal,15464,110011,Tharu,"Tharu unspecified",1794000,1,Y,thl,"Tharu, Dangaura",4,5,Hinduism,3.411,,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",2,4,"Asia, South",ASI,Asia,Y,Y,36,N,28.605443051648,81.794697275457
+NP,Nepal,20750,110029,Thulung,Thulung,4000,1,Y,tdh,Thulung,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",442,A012,"South Asia Hindu - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.454815,86.701234
+NP,Nepal,15468,110033,Tibetan,"Tibetan, Bhotia",3100,1,Y,bod,"Tibetan, Central",5,2,Buddhism,0.000,0.000,23,A014,"Tibetan-Himalayan Peoples",304,C0216,Tibetan,14,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.707803,85.532176
+NP,Nepal,19332,115560,Tokpegola,Tokpegola,1700,1,Y,xsr,Sherpa,4,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.639,87.58
+NP,Nepal,20783,110222,Tsum,Tsum,2800,1,Y,ttz,Tsum,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",402,A012,"South Asia Buddhist",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.47193,85.08175
+NP,Nepal,22348,119347,"Valmiki (Hindu traditions)","Valmiki (Hindu traditions)",6700,1,Y,awa,Awadhi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",4,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.09,81.82573
+NP,Nepal,22349,119348,"Valmiki (Muslim traditions)","Valmiki (Muslim traditions)",1600,1,Y,urd,Urdu,5,6,Islam,0.000,0.000,21,A012,"South Asian Peoples",462,A012,"South Asia Muslim - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,28.09,81.82573
+NP,Nepal,19198,117150,Walang,Walang,1500,1,Y,ola,Walungge,0,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.60533472846,87.293538494409
+NP,Nepal,16187,111292,"Yadav (Hindu traditions)","Yadav (Hindu traditions)",1066000,1,Y,mai,Maithili,4,5,Hinduism,0.030,,21,A012,"South Asian Peoples",450,A012,"South Asia Hindu - Yadav",6,4,"Asia, South",ASI,Asia,Y,Y,21,Y,26.771109616888,86.911053901552
+NP,Nepal,21294,118117,"Yadav Dhindhor","Yadav Dhindhor",18000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",450,A012,"South Asia Hindu - Yadav",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.638236412629,82.995664587013
+NP,Nepal,21295,118118,"Yadav Gaoli","Yadav Gaoli",95000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",450,A012,"South Asia Hindu - Yadav",2,4,"Asia, South",ASI,Asia,Y,Y,2,Y,26.985723266984,85.589632688533
+NP,Nepal,21822,118608,"Yadav Ghosi","Yadav Ghosi",2200,1,Y,awa,Awadhi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",450,A012,"South Asia Hindu - Yadav",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.63095,82.99489
+NP,Nepal,21296,118119,"Yadav Gola","Yadav Gola",5300,1,Y,awa,Awadhi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",450,A012,"South Asia Hindu - Yadav",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.637513492333,83.014315797583
+NP,Nepal,21299,118121,"Yadav Gualbans (Hindu traditions)","Yadav Gualbans (Hindu traditions)",35000,1,Y,awa,Awadhi,5,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",450,A012,"South Asia Hindu - Yadav",3,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.632382044536,83.030453912237
+NP,Nepal,21825,118611,"Yadav Kaonra","Yadav Kaonra",3500,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",450,A012,"South Asia Hindu - Yadav",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.82206,86.04394
+NP,Nepal,21300,118123,"Yadav Rawat","Yadav Rawat",11000,1,Y,mai,Maithili,4,5,Hinduism,0.000,0.000,21,A012,"South Asian Peoples",450,A012,"South Asia Hindu - Yadav",2,4,"Asia, South",ASI,Asia,Y,Y,1,Y,26.827820830591,86.074286314779
+NP,Nepal,15957,110935,Yakkha,Yakkha,28000,1,Y,ybh,Yakkha,4,8,"Other / Small",0.721,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",2,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.564989830092,87.732107360605
+NP,Nepal,13065,105776,"Yakthumba, Limbu","Yakthumba, Limbu",454000,1,Y,lif,Limbu,5,8,"Other / Small",2.688,,21,A012,"South Asian Peoples",468,A012,"South Asia - other",3,4,"Asia, South",ASI,Asia,Y,Y,9,N,27.552595130601,87.483338283457
+NP,Nepal,20751,110965,Yamphu,Yamphu,8100,1,Y,ybi,Yamphu,4,2,Buddhism,0.000,0.000,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,Y,27.587599,87.268024
+NP,Nepal,12410,115808,Yehlmo,Yehlmo,12000,1,Y,scp,Hyolmo,4,2,Buddhism,0.990,,21,A012,"South Asian Peoples",475,A012,"South Asia Tribal - other",1,4,"Asia, South",ASI,Asia,Y,Y,1,N,27.617491321409,86.386783870564
